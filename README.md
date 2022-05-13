@@ -1,0 +1,2 @@
+- 👀 I’m interested in Computers.
+- 🌱 I’m currently learning C++ and Python.
